@@ -16,7 +16,7 @@ const PopularMenu = () => {
     <section className="mb-12">
       <SectionTitle
         heading={"From Our Menu"}
-        subHeading={"Polular Items"}
+        subHeading={"---Polular Items---"}
       ></SectionTitle>
       <div className="grid md:grid-cols-2 gap-10">
         {menu.map((item) => (

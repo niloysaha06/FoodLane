@@ -10,7 +10,7 @@ const MenuItem = ({ item }) => {
         alt=""
       />
       <div>
-        <p className="text-neutral-900 text-xl font-normal">{name}--------</p>
+        <p className="text-neutral-900 text-xl font-normal">{name}</p>
         <p className="w-96 text-neutral-500 text-base font-normal leading-relaxed">
           {recipe}
         </p>
